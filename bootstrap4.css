@@ -1,0 +1,19 @@
+
+
+
+.side {
+background-color: orangered;height: 325vh;border-left: 1px solid black;border-right: 1px solid black;
+}
+.list-group-item {
+background-color: darkgrey;color:black;
+}
+.content {
+background-color: black;
+}
+.card {
+background-color:thistle;margin: 7px;
+}
+.card-img-top {
+height: 40vh;
+}
+
